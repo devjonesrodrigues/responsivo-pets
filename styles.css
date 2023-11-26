@@ -123,26 +123,32 @@ img {
     margin: 0;
     width: 354px;
     height: 317px;
+    position: relative;
+    right: 161px;
 }
 
 h1 {
     margin: 0;
-
     width: 263px;
     height: 52px;
     color: #515151;
     font-size: 50px;
-
+    position: relative;
+    right: 163px;
 }
 
 h2 {
     margin: 0 0 19px 0;
     color: #515151;
     font-size: 30px;
+    position: relative;
+    right: 147px;
 }
 
 button {
     margin: 0;
+    position: relative;
+    right: 151px;
 }
 
 }
